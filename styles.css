@@ -1,8 +1,17 @@
+/* Arquivo Index */
+
 h1 {
     color: crimson;
     text-align: center;
+    font-style: normal;
+    font-size: medium;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 p {
     color: darkblue;
     text-align-last: center;
+}
+
+body {
+    color: darkblue;
 }
